@@ -1,0 +1,12 @@
+{
+  "name": "nohate",
+  "version": "1.0.0",
+  "homepage": "https://nohate.no",
+  "main": "nohate.min.js",
+  "unpkg": "nohate.min.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/no-hate/no-hate"
+  }
+}

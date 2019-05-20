@@ -1,0 +1,15 @@
+{
+  "labels": {
+    "title": "Du har brukt ord som kan oppfattes hatefullt.",
+    "text": "Kommentaren er ikke postet enda. Var kommentaren ment på en hatefull måte? I så fall ber vi deg ta en ny vurdering før du poster.",
+    "subtext": "Hatefulle meldinger kan virke støtende på andre, lede til utestenging fra kommentarfeltet <b>og i verste fall være straffbart.</b>",
+    "readMore": "Les mer på <a href='http://nohate.no' target='_blank' alt='NoHate'>nohate.no</a>",
+    "buttonOk": "Gå tilbake",
+    "buttonContinue": "Post kommentaren",
+    "buttonReport": "Rapporter feil",
+    "reportingText": "Feilen rapporteres nå inn til Nohate.no.",
+    "afterReportText": "Takk for at du sier ifra.",
+    "telia": "Netthatfilteret er laget i samarbeid med Telia"
+  },
+  "data": "WyJCZWlucmFuZ2VsIiwiQml0Y2giLCJDdW50IiwiRGVnb3MiLCJEaW4gZmVpdGUiLCJEaW4gc3ZhcnRlIGFwZSIsIkRyYSB0aWwgaGVsdmV0ZSIsIkRyZXAgZGVnIiwiRHJlcGUiLCJEcmVwZSBkZWciLCJEdSBi+HIgaGVuZ2VzIiwiRHUgc2thbCBk+CIsIkZhZW5zIG11c2xpbSIsIkZhZ2dvdCIsIkZhZ290IiwiRml0dGUiLCJGaXR0ZXNsZWlrZXIiLCJGaXR0ZWtqZXJyaW5nIiwiRml0dGVrauZycmluZyIsIkZvbGtlZm9y5mRlciIsIkZvcnB1bHRlIiwiRnVjayBkZWciLCJGdWNrIHUiLCJGdWNrIHlvdSIsIkduaWVuIGr4ZGUiLCJHdWxpbmciLCJIYWx2YXBlciIsIkhhdGVyIGRlZyIsIkhlbmcgZGVnIiwiSGVzdGt1ayIsIkhvbXNlIiwiSG9yZSIsIkhvcmVtYW1tYSIsIkhvcmVtb3IiLCJIb3JlbW9yYSBkaSIsIkhvdHRlbnRvdHQiLCJI5XBlciBkdSBk+HIiLCJJUy1lbHNrZXIiLCJKYXBzZSIsIkr4ZGUgZmFlbiIsIkthbG90dCBmYWVuIiwiS251bGxlIGRlZyIsIkty+HBsaW5nIiwiS3VrIiwiS3ZhbG1lIGZhZW4iLCJMYW5kc2ZvcuZkZXIiLCJMYW5kc3N2aWtlciIsIkxpa3B1bGVyIiwiTWVyciIsIk1va2thbWFubiIsIk1vbmdvIiwiTW9yYWtudWxsZXIiLCJNb3JhcHVsZXIiLCJNb3RoZXJmdWNrZXIiLCJNdXNsaW0tZWxza2VyIiwiTXlyZGUiLCJOZWdlciIsIk5pZ2dlciIsIlBha2tpcyIsIlBpa2siLCJQdWxlIGRlZyIsIlJldGFyZCIsIlNhdWVwdWxlciIsIlNpb25pc3RmaXR0ZSIsIlNrYW1wdWxlIiwiU2tydWxsZSIsIlNreXQgZGVnIiwiU2t5dCBtZXJyYSIsIlNreXRlIGRlZyIsIlNvcGVyIiwiU290cvhyIiwiU3VnZSBwaWtrIiwiU3ZhcnRlIHN2aW4iLCJTdmFydGluZyIsIlRhIGxpdmV0IGRpdHQiLCJUYXRlciIsIlRyYWt0b3JsZXNiZSIsIlRyYWt0b3JsZXNwZSIsIlR2YW5nc3RlcmlsaXNlcmUiLCJWb2xkdGEgZGVnIix7ImR1IGVyIjpbImZlaXQiLCJzdHlnZyIsInN0+GdnIiwic/hwcGVsIl0sImrmdmxhIjpbImF1dGlzdCIsImZsYXRiYW5rZXIiLCJob21vIiwiavhkZSIsImv4ZGQiLCJpZGlvdCIsIm11c2xpbSIsInRlcnJvcmlzdCIsInRyb2xsIl0sImZhZW5zIjpbImF1dGlzdCIsImZsYXRiYW5rZXIiLCJob21vIiwiavhkZSIsImv4ZGQiLCJpZGlvdCIsIm11c2xpbSIsInRlcnJvcmlzdCIsInRyb2xsIl19XQ=="
+}
