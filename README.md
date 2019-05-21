@@ -26,12 +26,6 @@ All settings are optional - default are specified below.
 
   > default: 'no' // Norwegian
 
-- `googleAnalytics`
-  google analytics UA
-
-  > example: "UA-000000-2"
-  > default: N/A
-
 - `custom`
   custom words
 
@@ -62,3 +56,40 @@ Paste the code right before the bottom of the &lt;body&gt; tag on the template p
 ### Verify that the plugin is working
 
 To verify that the plugin is working, visit your website and enter `NoHateVerify` into the targeted textarea and click submit.
+
+### Anonymized analytics events tracked by the plugin
+
+- `Initializing`
+  when the plugin is initializing
+
+  > value: true
+
+- `Initialized`
+  when the plugin is connected to an inputfield / textarea
+
+  > value: true / false
+
+- `Load`
+  when the language file starts loading
+
+  > value: language
+
+- `Valid`
+  when the plugin is validating a comment
+
+  > value: true / false
+
+- `Cancel`
+  when the user clicks go back / outside popup
+
+  > value: true
+
+- `Submit`
+  when the user clicks "post comment"
+
+  > value: true
+
+- `Report`
+  when the user clicks "report error"
+
+  > value: true
