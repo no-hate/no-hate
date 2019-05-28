@@ -1,7 +1,7 @@
 {
   "name": "nohate",
   "version": "1.0.0",
-  "homepage": "https://nohate.no",
+  "homepage": "https://nohate.no/hatefulle-ytringer",
   "main": "nohate.min.js",
   "unpkg": "nohate.min.js",
   "license": "MIT",
